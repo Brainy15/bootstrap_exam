@@ -1,0 +1,50 @@
+#dy{
+    background-color: green;
+}
+
+.exam1{
+    background-color: orangered;
+}
+
+.bggg{
+    background-image: url(../image/);
+}
+
+.fs-10{
+    font-size: 60px;
+}
+
+.fs-9{
+    font-size: 45px;
+}
+
+.h-76{
+    height: 6%;
+}
+
+.w-15 {
+    width: 15% !important;
+  }
+.innfo{
+   background: linear-gradient(to-bottom-right,red,blue)
+}
+
+.pink{
+    color: orangered;
+}
+
+.bggb{
+    background-image: url(../image/carousel-2.jpg);
+    max-width: 100%;
+    height: 400px;
+    background-size:100%;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+}
+
+.slant{
+   
+   border-top: 1px dashed green;
+   border-left: 10px solid green
+   ;
+}
